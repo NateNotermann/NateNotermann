@@ -13,7 +13,7 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
 
 
  ### Other links
- Feel free to take a look around the rest of my [github](https://github.com/NateNotermann)
+ Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories)
  or visit some of my other sites below.
 
 - Linked in profile - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a>
