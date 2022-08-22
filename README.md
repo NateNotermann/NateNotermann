@@ -46,5 +46,8 @@ Don't hesitate to reach out via <a href = "mailto: nate.notermann@gmail.com">ema
 
 
 <br>
+
+![Stats Overview](https://raw.githubusercontent.com/NateNotermann/github-stats-transparent/afc1a13a92e70179c22fd15de262e079fd649f49/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/NateNotermann/github-stats-transparent/afc1a13a92e70179c22fd15de262e079fd649f49/generated/languages.svg)
 <br>
 <br>
