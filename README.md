@@ -19,7 +19,7 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
  or visit some of my other sites below.
 
 - Linked in profile - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a>
-- Resume - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://en.wikipedia.org/wiki/Google_Docs#/media/File:Google_Docs_2020_Logo.svg" height='18px'/></a>
+- Resume - <a href='https://docs.google.com/document/d/1PAUsLDVCmBP8WFY73BN1u5lL5Fr-vDjPn1L0thMjKS0/edit#'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/800px-Google_Docs_2020_Logo.svg.png" height='18px'/></a>
 
 
 
