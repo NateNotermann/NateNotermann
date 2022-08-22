@@ -30,7 +30,7 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
-<a href="https://react-redux.js.org/" target="_blank"> <img align="left" alt="React-Redux" height ="42px" src="https://d33wubrfki0l68.cloudfront.net/97f337956b87f4589dbf68591f22f5f3dacf2736/55f2a/img/redux_white.svg"></a>
+<a href="https://react-redux.js.org/" target="_blank"> <img align="left" alt="React-Redux" height ="42px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"></a>
 
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
 
