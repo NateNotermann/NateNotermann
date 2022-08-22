@@ -11,8 +11,6 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
   <br>
   As far as non-tech related stats go I love running around the lakes in my free time. Catching up on stand up comedy specials. Mild movie buff. Cat Dad of 1. 
 
-<a href='https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames'><img alt="linkedin" src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/ign-podcasts/a/a0/New_Game_Scoop_VG20Q_Logo.jpg?width=640" height='18px'/></a>
-
 
  ### Other links
  Feel free to take a look around the rest of my [github](https://github.com/NateNotermann)
@@ -32,8 +30,11 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
 
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
+<a href="https://eggerapps.at/postico/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9527e481fa86aee7aef5c962698d78ee/postico.png" align="left" alt="Ppostico" height='42px'/> </a>
 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" align="left" alt="Vscode" height='42px'/> </a>
+
+<a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
 
 <br>
 <br>
