@@ -6,7 +6,7 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
 
  ### Trivia
  I love all things tech. Whether it be paying playing around with AI image generators like 
-  [Midjourney](https://www.midjourney.com/home/) or &nbsp; 
+  [Midjourney](https://www.midjourney.com/home/) or  
   [DALL-E-2](https://openai.com/dall-e-2/). Creating [deepfakes](https://scontent-msp1-1.cdninstagram.com/v/t50.16885-16/10000000_2565933013530816_5687062031410785406_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjEyODAuaWd0di5kZWZhdWx0IiwicWVfZ3JvdXBzIjoiW1wiaWdfd2ViX2RlbGl2ZXJ5X3Z0c19vdGZcIl0ifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=DXY3bX3WWMUAX9BlCLt&edm=ALQROFkBAAAA&vs=18077155606276684_3438702132&_nc_vs=HBksFQAYJEdJQ1dtQURBX01uVnN4MEpBSDdzMlVYSmdPeE9idlZCQUFBRhUAAsgBABUAGCRHSlg3TEF2aElhMldQTHNDQUkzYVFIZ1c3VVlxYnZWQkFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACaYtv%2FUucScQBUCKAJDMywXQGWFT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdewHAA%3D%3D&ccb=7-5&oe=63050655&oh=00_AT-flJvvXf_LS8Se7GTYNHxarmQk09GaOnfPzHiPQgh0-w&_nc_sid=30a2ef) of old movies like [Singin' in the Rain](https://www.rottentomatoes.com/m/singin_in_the_rain). Or catching up on gamings news podcast like [GameScoop!](https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames). I love building my own custom PC's. 
   <br>
   As far as non-tech related stats go I love running around the lakes in my free time. Catching up on stand up comedy specials. Mild movie buff. Cat Dad of 1. 
