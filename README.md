@@ -18,9 +18,10 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
  Feel free to take a look around the rest of my [github](https://github.com/NateNotermann)
  or visit some of my other sites below.
 
-- <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a>
+- Linked in profile - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a>
+- Resume - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://en.wikipedia.org/wiki/Google_Docs#/media/File:Google_Docs_2020_Logo.svg" height='18px'/></a>
 
-- [resume](https://docs.google.com/document/d/1PAUsLDVCmBP8WFY73BN1u5lL5Fr-vDjPn1L0thMjKS0/edit#)
+
 
 <br>
 
