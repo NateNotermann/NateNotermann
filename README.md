@@ -5,11 +5,11 @@ Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Sta
 <br/>
 
  ### Trivia
- I love all things tech. Whether it be paying playing around with AI image generators like 
+I love all things tech. Whether it be playing around with AI image generators like 
   [Midjourney](https://www.midjourney.com/home/) or  
-  [DALL-E-2](https://openai.com/dall-e-2/). Creating [deepfakes](https://vimeo.com/742504379) of old movies like [Singin' in the Rain](https://www.rottentomatoes.com/m/singin_in_the_rain). Or catching up on gamings news podcast like [GameScoop!](https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames). I'm a casual PC gamer that enjoys building their own custom PC's.  
+  [DALL-E-2](https://openai.com/dall-e-2/), or creating [deepfakes](https://vimeo.com/742504379) of old movies like [Singin' in the Rain](https://www.rottentomatoes.com/m/singin_in_the_rain). Or catching up on gaming news & podcasts like [GameScoop!](https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames). I'm a casual PC gamer that enjoys building their own custom PC's.  
   <br>
-  As far as non-tech related stats go I love running around the lakes in my free time. Catching up on stand up comedy specials. Mild movie buff. Cat Dad of 1. 
+  As far as non-tech related stats go, I love running around the lakes in my free time. I also enjoy catching up on stand up comedy specials. Mild movie buff. Cat Dad of 1. 
 
 
  ### Other links
