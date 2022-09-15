@@ -1,7 +1,7 @@
 ## Nate Notermann
 
 
-Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages starting with a foundation in **Html**, **CSS** and **Javascript**, **jQuery** all the way to **React**, **Redux**. Then building on those with **express**, **Node**, **Ajax**, **Axios**. Cant forget **SQL** on the server side. 
+Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages starting with a foundation in **Html**, **CSS** and **Javascript**, **jQuery** all the way to **React**, **Redux**. Then building on those with **express**, **Node**, **Ajax**, **Axios**, **SQL** and more. 
 <br/>
 
  ### Trivia
