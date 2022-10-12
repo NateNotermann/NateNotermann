@@ -17,10 +17,9 @@ I love all things tech. Whether it be playing around with AI image generators li
  Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories)
  or visit some of my other sites below.
 
+- My Deployed Solo Project, [Wiki-HeHe-pedia](https://wiki-hehe-pedia.herokuapp.com/#/home)
 - Linkedin profile - <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a>
 - Resume - <a href='https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/800px-Google_Docs_2020_Logo.svg.png" height='18px'/></a>
-
-- My Deployed Solo Project, [Wiki-HeHe-pedia](https://wiki-hehe-pedia.herokuapp.com/#/home)
 
 Don't hesitate to reach out via <a href = "mailto: nate.notermann@gmail.com">email!</a>
 
