@@ -37,7 +37,7 @@ Don't hesitate to reach out via <a href = "mailto: nate.notermann@gmail.com">ema
 <!-- redux -->
 <a href="https://react-redux.js.org/" target="_blank"> <img align="left" alt="React-Redux" height ="42px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"></a>
 <!-- saga -->
-<a href="https://redux-saga.js.org/" target="_blank"> <img align="left" alt="React-Redux" height ="42px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png"></a>
+<a href="https://redux-saga.js.org/" target="_blank"> <img align="left" alt="React-Redux-Saga" height ="42px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png"></a>
 <!-- Material UI -->
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
 <!-- VSCode -->
@@ -48,6 +48,9 @@ Don't hesitate to reach out via <a href = "mailto: nate.notermann@gmail.com">ema
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 <!-- postico -->
 <a href="https://eggerapps.at/postico/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9527e481fa86aee7aef5c962698d78ee/postico.png" align="left" alt="Postico" height='42px'/> </a>
+<!-- postreSQL -->
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800" align="left" alt="postreSQL" height='42px'/> </a>
+
 
 
 <br>
