@@ -15,7 +15,8 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
  Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories)
  or visit some of my other sites below.
 <!-- heroku app App link-->
-<a href='https://wiki-hehe-pedia.herokuapp.com/#/home'><img alt="heroku" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Fully Deployed Solo Project App - [Wiki-HeHe-pedia]([https://wiki-hehe-pedia.herokuapp.com/#/home](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/user))
+<a href='https://wiki-hehe-pedia.herokuapp.com/#/home'><img alt="heroku" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Fully Deployed Solo Project App - [Wiki-HeHe-pedia](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/user)
+
 <!-- Linkdin Link -->
 <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile - [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
 <!-- Resume Link -->
