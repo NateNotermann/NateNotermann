@@ -1,7 +1,21 @@
 ## Nate Notermann
 
 
-Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages starting with a foundation in **Html**, **CSS** and **Javascript**, **jQuery** all the way to **React**, **Redux**. Then building on those with **express**, **Node**, **Ajax**, **Axios**, **SQL** and more. 
+Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages. 
+<br>
+The languages I am the most fluent in are:
+<br/>
+
+**Front-End**: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **HTML**, **CSS** and some **jQuery**. 
+<br/>
+
+**Back-End**: **T-SQL** & **PostgreSQL**.  
+<br>
+
+## Currently Working on:
+Right now I am working on turning my resume into a playable video game. It is very much a work in progress. You can creep on the repo [HERE](https://github.com/NateNotermann/Video-Game-Resume)
+Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and librairies such as: **express**, **Node**, **Ajax**, **Axios**, and more. 
+<br>
 <br/>
 
  ### Trivia
@@ -11,11 +25,15 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
   As far as non-tech related stats go, in my free time I love running around the lakes and catching up on comedy podcasts. Mild movie buff. Cat Dad of 1. 
 
 
- ### Other links
- Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories)
- or visit some of my other sites below.
-<!-- heroku app App link-->
-<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="heroku" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Fully Deployed Solo Project App - [Wiki-HeHe-pedia](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home)
+ ### Other links & Examples of work:
+<!-- wiki-hehe-pedia2 -->
+<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - "Wiki-HEHE-Pedia" (Full Stack REACT Web App) - [Wiki-HeHe-pedia](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home)
+
+<!-- Drumkit -->
+<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) - [Drumkit](https://natenotermann.github.io)
+
+<!-- Javascript-Fighting-Game -->
+<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Javascript 2D Fighting Game with GamePad API - [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
 
 <!-- Linkdin Link -->
 <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile - [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
