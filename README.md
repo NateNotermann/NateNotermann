@@ -29,12 +29,22 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 <br>
 
 ### Languages and Programs:
-<!-- HTML -->
-<a href="https://html.com/about/" target="_blank"> <img align="left" alt="HTML" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"> </a>
+<!-- react.js -->
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" 
+src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+
 <!-- javascript -->
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
-<!-- react.js -->
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+
+<!-- Visual Basic -->
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img align="left" alt="VB" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/120px-VB.NET_Logo.svg.png"></a>
+
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png"></a>
+<!-- ASP.NET -->
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://logodix.com/logo/943216.png"></a>
+<!-- HTML -->
+<a href="https://html.com/about/" target="_blank"> <img align="left" alt="HTML" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"> </a>
 <!-- redux -->
 <a href="https://react-redux.js.org/" target="_blank"> <img align="left" alt="React-Redux" height ="42px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"></a>
 <!-- saga -->
@@ -43,6 +53,10 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
 <!-- VSCode -->
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" align="left" alt="Vscode" height='42px'/> </a>
+<!-- VISUAL STUDIO -->
+<a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg"></a>
+<!-- SSMS -->
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png"></a>
 <!-- node.js -->
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
 <!-- postman -->
