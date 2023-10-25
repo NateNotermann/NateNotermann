@@ -9,9 +9,8 @@ Please see my [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0
 
 ## Currently Working on:
 Right now I am working on turning my resume into a playable video game. It is very much a work in progress. You can creep on the repo [HERE](https://github.com/NateNotermann/Video-Game-Resume)
-Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and librairies such as: **express**, **Node**, **Ajax**, **Axios**, and more. 
+Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**, and more. 
 <br>
-<br/>
 
  ### Trivia
 I love all things tech. Whether it be catching up on gaming news & podcasts like [GameScoop!](https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames), playing around with AI image generators. I'm a casual PC gamer that enjoys building their own custom PC's. I also remotely assisted with video production for a weekly comedy podcast called [2 Non-Doctors](https://www.instagram.com/2nondrs/?hl=en).
@@ -21,22 +20,23 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 
 
  ### Other links & Examples of work:
+ 
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - "Wiki-HEHE-Pedia" (Full Stack REACT Web App) - [Wiki-HeHe-pedia](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home)
+<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project(Full Stack REACT Web App) --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) Repo [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
 
 <!-- Drumkit -->
-<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) - [Drumkit](https://natenotermann.github.io)
+<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
 
 <!-- Javascript-Fighting-Game -->
-<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Javascript 2D Fighting Game with GamePad API - [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
+<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Javascript 2D Fighting Game + GamePad API --> [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
 
 <!-- Linkdin Link -->
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile - [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile --> [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
 
 <!-- Resume Link -->
-<a href='https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing'><img alt="Resume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/800px-Google_Docs_2020_Logo.svg.png" height='18px'/></a> - Resume - [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing)
+<a href='https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing'><img alt="Resume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/800px-Google_Docs_2020_Logo.svg.png" height='18px'/></a> - Resume --> [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing)
 <!-- Email Link -->
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='18px'/></a> - Don't hesitate to reach out via -  <a href = "mailto: nate.notermann@gmail.com">email!</a>
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='18px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
 
 
 
