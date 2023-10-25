@@ -66,6 +66,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
 <!-- Material UI -->
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
+<br><be>
 
 **Databases:**
 <!-- T-SQL -->
@@ -92,6 +93,7 @@ src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 
 <!-- postico -->
 <a href="https://eggerapps.at/postico/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9527e481fa86aee7aef5c962698d78ee/postico.png" align="left" alt="Postico" height='42px'/> </a>
+<br><be>
 
 **Additional Skills & Software:**
 
