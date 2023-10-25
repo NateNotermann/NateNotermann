@@ -66,8 +66,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
 <!-- Material UI -->
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
-<br><br>
+<br><be>
 
+<span>
 **Databases:**
 <!-- T-SQL -->
 <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"> <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_448,h_250/f_auto,q_auto/v1686060391/hevo-learn-1/tsql_logo.png?_i=AA" align="left" alt="T-SQL" height='42px'/> </a>
@@ -75,6 +76,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 <!-- PostreSQL -->
 <a href="https://www.postgresql.org/" target="_blank"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800" align="left" alt="postreSQL" height='42px'/> </a>
+</span>
 <br><br>
 
 **Software:**
