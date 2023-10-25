@@ -28,9 +28,10 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 
 <br>
 
-### Skills:
+## Skills:
 
-**Languages:** <!-- javascript --><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
+**Languages:** 
+<!-- javascript --><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
 
 <!-- Visual Basic -->
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img align="left" alt="VB" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/120px-VB.NET_Logo.svg.png"></a>
@@ -41,9 +42,12 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 <!-- CSS -->
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" alt="HTML" height ="42px"  
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png"> </a>
-<br>
 
-**Frameworks & Libraries:** <!-- .NET --><a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png"></a>
+<br><br>
+
+**Frameworks & Libraries:** 
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png"></a>
 
 <!-- ASP.NET -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://logodix.com/logo/943216.png"></a>
@@ -63,17 +67,17 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
 <!-- Material UI -->
 <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/480/material-ui.png" align="left" alt="MUI" height='42px'/> </a>
-<br><be>
+<br><br>
 
-
-**Databases:** <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"> <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_448,h_250/f_auto,q_auto/v1686060391/hevo-learn-1/tsql_logo.png?_i=AA" align="left" alt="T-SQL" height='42px'/> </a> 
+**Databases:** 
 <!-- T-SQL -->
+<a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"> <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_448,h_250/f_auto,q_auto/v1686060391/hevo-learn-1/tsql_logo.png?_i=AA" align="left" alt="T-SQL" height='42px'/> </a> 
 
 <!-- PostreSQL -->
 <a href="https://www.postgresql.org/" target="_blank"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800" align="left" alt="postreSQL" height='42px'/> </a>
 
-<br><br>
+<br><br> 
 
 **Software:**
 <!-- VSCode -->
@@ -91,6 +95,7 @@ src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 
 <!-- postico -->
 <a href="https://eggerapps.at/postico/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9527e481fa86aee7aef5c962698d78ee/postico.png" align="left" alt="Postico" height='42px'/> </a>
+
 <br><br>
 
 **Additional Skills & Software:**
