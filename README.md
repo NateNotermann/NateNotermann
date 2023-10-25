@@ -30,8 +30,7 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 
 ### Skills:
 
-**Languages:**
-<!-- javascript --><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
+**Languages:** <!-- javascript --><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> </a>
 
 <!-- Visual Basic -->
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img align="left" alt="VB" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/120px-VB.NET_Logo.svg.png"></a>
@@ -42,11 +41,9 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 <!-- CSS -->
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img align="left" alt="HTML" height ="42px"  
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png"> </a>
-<br><br>
+<br>
 
-**Frameworks & Libraries:**
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png"></a>
+**Frameworks & Libraries:** <!-- .NET --><a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png"></a>
 
 <!-- ASP.NET -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img align="left" alt="dotNet" height ="42px" src="https://logodix.com/logo/943216.png"></a>
