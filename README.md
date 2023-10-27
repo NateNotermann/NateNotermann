@@ -8,7 +8,7 @@ Please see my [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0
 <br>
 
 ## Currently Working on:
-Right now I am working on turning my resume into a playable video game. It is very much a work in progress. You can creep on the repo [HERE](https://github.com/NateNotermann/Video-Game-Resume)
+Right now I am working on turning my resume into a **playable video game**. It is very much a work in progress. You can creep on the repo [HERE](https://github.com/NateNotermann/Video-Game-Resume)
 Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**, and more. 
 <br>
 
