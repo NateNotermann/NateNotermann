@@ -22,7 +22,7 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
  ### Other links & Examples of work:
  
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project(Full Stack REACT Web App) --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) Repo [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
+<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project(Full Stack REACT Web App/Also PWA compliant) --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) Repo [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
 
 <!-- Drumkit -->
 <a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
