@@ -18,7 +18,7 @@ I also remotely assisted with video production for a weekly comedy podcast calle
 
  ### Other links 
 <!-- Linktree Link -->
-<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/220px-Linktree_logo.svg.png" height='18px'/></a> - Linkedin profile --> [Linktree](https://www.linkedin.com/in/nate-notermann/)
+<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/220px-Linktree_logo.svg.png" height='18px'/></a> - Linkedin profile --> [Linktree](https://linktr.ee/natenotermann)
 
 <!-- Linkdin Link -->
 <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile --> [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
