@@ -3,26 +3,42 @@
 
 Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages. 
 <br>
-The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
-Please see my [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing) for a full list. 
+The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
+Please see my my new [Video Game Resume!](https://aquamarine-bubblegum-1105d2.netlify.app/)! Github Repo: [HERE](https://github.com/NateNotermann/Video-Game-Resume)
+Or take a look at my actual [PDF Resume](https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0) for a full list of skills. 
 <br>
 
-## Currently Working on:
-Right now I am working on turning my **resume into a playable video game**. It is very much a work in progress. You can creep on the repo [HERE](https://github.com/NateNotermann/Video-Game-Resume)
-Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**, and more. 
+Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**,  **.NET** and more. 
 <br>
 
  ### Trivia
-I love all things tech. Whether it be catching up on gaming news & podcasts like [GameScoop!](https://www.youtube.com/watch?v=E-HuWmdVVng&list=PL99PCYdTX-vc_2yb9cnTYyqgiO5ujqp2R&ab_channel=IGNGames), playing around with AI image generators. I'm a casual PC gamer that enjoys building their own custom PC's. I also remotely assisted with video production for a weekly comedy podcast called [2 Non-Doctors](https://www.instagram.com/2nondrs/?hl=en).
-  <br>
-  <br>
-  As far as non-tech related stats go, in my free time I love running around the lakes and catching up on comedy podcasts. Mild movie buff. 
+I love all things tech. Whether it be catching up on gaming news & podcasts, custom PCs. Some of my non-tech-related interests & hobbies are running, pickleball, comedy podcasts.
+I also remotely assisted with video production for a weekly comedy podcast called [2 Non-Doctors](https://www.instagram.com/2nondrs/?hl=en).
 
 
- ### Other links & Examples of work:
- 
+ ### Other links 
+<!-- Linktree Link -->
+<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/220px-Linktree_logo.svg.png" height='18px'/></a> - Linkedin profile --> [Linktree](https://www.linkedin.com/in/nate-notermann/)
+
+<!-- Linkdin Link -->
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile --> [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
+
+<!-- Resume Link -->
+<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/121px-PDF_file_icon.svg.png" height='18px'/></a> - Resume --> [PDF Resume](https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0)
+
+<!-- Email Link -->
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='18px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
+
+### Examples of work
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project(Full Stack REACT Web App/Also PWA compliant) --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) Repo [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
+<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) 
+    Repo: [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
+
+<!-- RCI Web Portal -->
+<a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
+    
+<!-- Video Game Resume -->
+<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Video Game Resume --> [Video Game Resume](https://aquamarine-bubblegum-1105d2.netlify.app/)
 
 <!-- Drumkit -->
 <a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
@@ -30,13 +46,6 @@ I love all things tech. Whether it be catching up on gaming news & podcasts like
 <!-- Javascript-Fighting-Game -->
 <a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Javascript 2D Fighting Game + GamePad API --> [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
 
-<!-- Linkdin Link -->
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile --> [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
-
-<!-- Resume Link -->
-<a href='https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing'><img alt="Resume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/800px-Google_Docs_2020_Logo.svg.png" height='18px'/></a> - Resume --> [Resume](https://docs.google.com/document/d/1AFwkaIAh_q_hZW1El2RY0tds35-Sx-Gi3TkMtMaZYnc/edit?usp=sharing)
-<!-- Email Link -->
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='18px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
 
 
 
