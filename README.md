@@ -38,7 +38,7 @@ I also remotely assisted with video production for a weekly comedy podcast calle
 <a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
     
 <!-- Video Game Resume -->
-<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Video Game Resume --> [Video Game Resume](https://aquamarine-bubblegum-1105d2.netlify.app/)
+<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Video Game Resume --> [Video Game Resume](https://video-game-resume.netlify.app/)
 
 <!-- Drumkit -->
 <a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
