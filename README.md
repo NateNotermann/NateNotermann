@@ -31,8 +31,8 @@ I also remotely assisted with video production for a weekly comedy podcast calle
 
 ### Examples of work
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wiki-hehe-pedia2-c36340d55df4.herokuapp.com/#/home) 
-    Repo: [Link](https://github.com/NateNotermann/wiki-hehe-pedia-2.0)
+<a href='https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) 
+    Repo: [Link](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
 
 <!-- RCI Web Portal -->
 <a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
