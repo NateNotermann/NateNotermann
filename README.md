@@ -8,14 +8,25 @@
 Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages.  
 The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
 Feel free to take a look around the rest of my [GitHub repositories](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites and examples of work below.
-<br>
+<br><br>
 
 
-What I'm working on | Recently Completed | 
-:------------: | :-------------: | 
-**Fair Share**, Tip Distributor React Web App. [Repo](https://github.com/NateNotermann/FairShare/tree/main) | I turned my resume into a playable Javascript video game! [Demo](https://video-game-resume.netlify.app/), [Repo](https://github.com/NateNotermann/Video-Game-Resume)  
-<img src="https://raw.githubusercontent.com/NateNotermann/FairShare/main/public/images/screenshots/screenshot1.webp" align="center" style="width: 50%;"> | <img src="https://raw.githubusercontent.com/NateNotermann/Video-Game-Resume/main/img/ReadMe/new2-ezgif.com-optimize.gif" align="center" style="width: 100%;"> 
+<table>
+  <tr>
+    <th style="width: 50%;">What I'm working on</th>
+    <th style="width: 50%;">Recently Completed</th>
+  </tr>
+  <tr>
+    <td>Fair Share - Tip Distributor React Web App. <a href="https://github.com/NateNotermann/FairShare/tree/main">Repo</a></td>
+    <td>I turned my resume into a playable Javascript video game!  <a href="https://video-game-resume.netlify.app/">Demo</a>, <a href="https://github.com/NateNotermann/Video-Game-Resume'">Repo</a></a></td>
+  </tr>
+  <tr>
 
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/NateNotermann/FairShare/main/public/images/screenshots/screenshot1.webp" align="center" style="width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/NateNotermann/Video-Game-Resume/main/img/ReadMe/new2-ezgif.com-optimize.gif" align="center" style="width: 100%;"></td>
+  </tr>
+</table>
 <br><br>
 
 
@@ -143,8 +154,8 @@ src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" align="left"
 <!-- Adobe CC -->
 <a href="https://www.adobe.com/creativecloud.html" target="_blank"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1280px-Adobe_Creative_Cloud_rainbow_icon.svg.png" align="left" alt="gitBash" height='42px' style="margin-right: 10px; margin-left: 10px;"/> </a>
-
-
+<br>
+<br>
 <br>
 <br>
 <br>
