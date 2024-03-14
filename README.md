@@ -23,7 +23,7 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
   <tr>
 
   <tr>
-    <td><img src="https://raw.githubusercontent.com/NateNotermann/FairShare/main/public/images/screenshots/screenshot1.webp" align="center" style="width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/NateNotermann/FairShare/main/public/images/screenshots/screenshot1.webp" align="center" style="width: 70%;"></td>
     <td><img src="https://raw.githubusercontent.com/NateNotermann/Video-Game-Resume/main/img/ReadMe/new2-ezgif.com-optimize.gif" align="center" style="width: 100%;"></td>
   </tr>
 </table>
