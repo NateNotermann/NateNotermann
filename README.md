@@ -1,12 +1,13 @@
 ## Nate Notermann
 <a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Repos" src="https://img.shields.io/badge/Repositories-%23FC0145 .svg?style=for-the-badge&&labelColor=white&logo=github&logoColor=FC0145" height='30px' style="color='blue'" /></a><!-- Email -->
 <a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
 <a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
 <br>
 
-Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages.  
-The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
+Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**.  
+Some of the languages I've worked in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
 Feel free to take a look around the rest of my [GitHub repositories](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites and examples of work below.
 <br><br>
 
@@ -37,9 +38,9 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 <!-- <img src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red"> --> 
-
-
+<img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red"> 
+<img src="https://img.shields.io/badge/github-%23FC0145 .svg?style=for-the-badge&&labelColor=white&logo=github&logoColor=FC0145"> 
+--> 
 
 
 ## Examples of work
