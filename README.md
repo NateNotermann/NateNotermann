@@ -1,55 +1,55 @@
 ## Nate Notermann
 
 
-Hello and welcome to my Github! My name is **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages. 
+Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages. 
 <br>
 The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
-Please see my my new [Video Game Resume!](https://aquamarine-bubblegum-1105d2.netlify.app/)! Github Repo: [HERE](https://github.com/NateNotermann/Video-Game-Resume)
-Or take a look at my actual [PDF Resume](https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0) for a full list of skills. 
+
+Please see my my new [Video Game Resume!](https://aquamarine-bubblegum-1105d2.netlify.app/)!  
+Github Repo: [HERE](https://github.com/NateNotermann/Video-Game-Resume)
+
 <br>
 
 Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**,  **.NET** and more. 
 <br>
 
- ### Trivia
-I love all things tech. Whether it be catching up on gaming news & podcasts, custom PCs. Some of my non-tech-related interests & hobbies are running, pickleball, comedy podcasts.
-I also remotely assisted with video production for a weekly comedy podcast called [2 Non-Doctors](https://www.instagram.com/2nondrs/?hl=en).
 
 <!-- Color Hex Codes: https://htmlcolorcodes.com/ -->
-
-<img src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" />
+<!-- Edit shield.io badges below -->
+<!-- <img src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=white&labelColor=white&logo=gmail&logoColor=red" /> -->
 
 
-
- ### Other links 
+ ### Links 
 <!-- Linktree Link -->
-<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a>
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a>
-<!-- Resume Link -->
+<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
+<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=white&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
 
-<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px'/></a> 
 
-<!-- Email Link -->
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='3px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
 
-### Examples of work
+## Examples of work
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='3px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) 
-    Repo: [Link](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
+- ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) Comedian Index - Full Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
+  - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS, Lottie.**
 
 <!-- RCI Web Portal -->
-<a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='3px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
-    
+- ["RCI Web Portal"](https://rci-web-portal-acd229a7a294.herokuapp.com/#/home) 
+ Client Group Project - Full Stack React/Node.js Web Application. ["Repo"](https://github.com/NateNotermann/RCI-Client-Project) 
+  - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS.**
+
 <!-- Video Game Resume -->
-<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='3px'/></a> - Video Game Resume --> [Video Game Resume](https://video-game-resume.netlify.app/)
+ - [Video Game Resume](https://video-game-resume.netlify.app/)  - Front-End Javascript 2D Video Game. [Repo](https://github.com/NateNotermann/Video-Game-Resume)
+   - **Tech: Vanilla JavaScript, HTML, CSS, Lottie.**
 
 <!-- Drumkit -->
-<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='3px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
+ - [Drumkit](https://natenotermann.github.io)
+   - **Tech: JavaScript, HTML, CSS.**
 
-<!-- Javascript-Fighting-Game -->
-<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='3px'/></a> - Javascript 2D Fighting Game + GamePad API --> [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
+
 
 
 
@@ -124,10 +124,6 @@ src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 <!-- postico -->
 <a href="https://eggerapps.at/postico/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9527e481fa86aee7aef5c962698d78ee/postico.png" align="left" alt="Postico" height='42px'/> </a>
 
-<br><br>
-
-**Additional Skills & Software:**
-
 <!-- Git bash -->
 <a href="https://git-scm.com/downloads" target="_blank"> <img 
 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" align="left" alt="gitBash" height='42px'/> </a>
@@ -135,8 +131,6 @@ src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" align="left"
 <!-- Adobe CC -->
 <a href="https://www.adobe.com/creativecloud.html" target="_blank"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1280px-Adobe_Creative_Cloud_rainbow_icon.svg.png" align="left" alt="gitBash" height='42px'/> </a>
-
-
 
 
 <br>
