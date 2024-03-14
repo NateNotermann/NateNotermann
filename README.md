@@ -70,7 +70,7 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 
 ## Skills:
 **Certifications**    
-<a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="margin-right: 10px; margin-left: 10px;"></a> **AWS Certified Cloud Practitioner Certification.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)     
+<a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="margin-right: 10px; margin-left: 10px;"></a> **AWS Certified Cloud Practitioner.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)     
 <br>  
 
 <a href="https://www.primeacademy.io/" target="_blank"> <img align="left" alt="AWSLink" height ="42px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/157/original/prime-20logo-20color.png" style="margin-right: 10px; margin-left: 10px;"></a>   
