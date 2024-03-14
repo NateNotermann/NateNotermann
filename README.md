@@ -15,36 +15,41 @@ Feel free to take a look around the rest of my [github](https://github.com/NateN
 I love all things tech. Whether it be catching up on gaming news & podcasts, custom PCs. Some of my non-tech-related interests & hobbies are running, pickleball, comedy podcasts.
 I also remotely assisted with video production for a weekly comedy podcast called [2 Non-Doctors](https://www.instagram.com/2nondrs/?hl=en).
 
+<!-- Color Hex Codes: https://htmlcolorcodes.com/ -->
+
+<img src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+
+
 
  ### Other links 
 <!-- Linktree Link -->
-<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/220px-Linktree_logo.svg.png" height='18px'/></a> - Linkedin profile --> [Linktree](https://linktr.ee/natenotermann)
-
-<!-- Linkdin Link -->
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height='18px'/></a> - Linkedin profile --> [Linkedin Profile](https://www.linkedin.com/in/nate-notermann/)
-
+<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a>
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a>
 <!-- Resume Link -->
-<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/121px-PDF_file_icon.svg.png" height='18px'/></a> - Resume --> [PDF Resume](https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0)
+
+<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px'/></a> 
 
 <!-- Email Link -->
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='18px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" height='3px'/></a> - Don't hesitate to reach out via -->  <a href = "mailto: nate.notermann@gmail.com">email!</a>
 
 ### Examples of work
 <!-- wiki-hehe-pedia2 -->
-<a href='https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='18px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) 
+<a href='https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home'><img alt="wiki-hehe-pedia2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height='3px'/></a> - Prime Digital Academy Solo Project --> ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) 
     Repo: [Link](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
 
 <!-- RCI Web Portal -->
-<a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
+<a href='https://github.com/NateNotermann/RCI-Client-Project'><img alt="RCI-Web-Portal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='3px'/></a> - Prime Digital Academy Client & Group Project Repo --> ["RCI Web Portal"](https://github.com/NateNotermann/RCI-Client-Project)
     
 <!-- Video Game Resume -->
-<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Video Game Resume --> [Video Game Resume](https://video-game-resume.netlify.app/)
+<a href='https://aquamarine-bubblegum-1105d2.netlify.app/'><img alt="VideoGameResume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='3px'/></a> - Video Game Resume --> [Video Game Resume](https://video-game-resume.netlify.app/)
 
 <!-- Drumkit -->
-<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='18px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
+<a href='https://natenotermann.github.io'><img alt="Drumkit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" height='3px'/></a> - Message to Hiring Managers/Javascript Drumkit (Front End Web Page) --> [Drumkit](https://natenotermann.github.io)
 
 <!-- Javascript-Fighting-Game -->
-<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='18px'/></a> - Javascript 2D Fighting Game + GamePad API --> [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
+<a href='https://javascriptfightinggame.netlify.app/'><img alt="Javascript-Fighting-Game" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/512px-Netlify_logo_%282%29.svg.png" height='3px'/></a> - Javascript 2D Fighting Game + GamePad API --> [Javascript Fighting Game](https://javascriptfightinggame.netlify.app/)
 
 
 
