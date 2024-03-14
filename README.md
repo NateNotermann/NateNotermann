@@ -1,25 +1,35 @@
 ## Nate Notermann
 
 
-Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages. 
-<br>
+Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've worked in many languages.  
+
 The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
-
-Please see my my new [Video Game Resume!](https://aquamarine-bubblegum-1105d2.netlify.app/)!  
-Github Repo: [HERE](https://github.com/NateNotermann/Video-Game-Resume)
-
-<br>
-
-Feel free to take a look around the rest of my [github](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites/examples of work below. They use multiple frameworks and libraries such as: **express**, **Node**, **Ajax**, **Axios**,  **.NET** and more. 
+Feel free to take a look around the rest of my [GitHub repositories](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites and examples of work below.
 <br>
 
 
+## What I'm working on
+- **Fair Share**, Tip Distributor App - Full-Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/FairShare/tree/main)
+  - It's a Full-stack React web app that allows service industry employees to calculate tip allocations. 
+<img src="public/images/screenshots/screenshot1.webp" style="width: 100%;">  
+
+
+## Recently Completed: 
+ - [**Video Game Resume**](https://video-game-resume.netlify.app/)  - Front-End Javascript 2D Video Game. [Repo](https://github.com/NateNotermann/Video-Game-Resume)
+
+ - <a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>   
+**AWS Certified Cloud Practitioner Certification.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)
+
+
+<!-- Shield.io badges: -->
+<!-- https://shields.io/badges -->
+<!-- Icon "slug" look up table: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 <!-- Color Hex Codes: https://htmlcolorcodes.com/ -->
-<!-- Edit shield.io badges below -->
 <!-- <img src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=white&labelColor=white&logo=gmail&logoColor=red" /> -->
+<img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red"> --> 
+
 
 
  ### Links 
@@ -27,26 +37,26 @@ Feel free to take a look around the rest of my [github](https://github.com/NateN
 <a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
 <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
 <a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=white&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
 
 
 
 ## Examples of work
 <!-- wiki-hehe-pedia2 -->
-- ["Wiki-HeHe-pedia"](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home) Comedian Index - Full Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
+- [**"Wiki-HeHe-pedia"**](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home), **Comedian Index** - Full Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
   - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS, Lottie.**
 
 <!-- RCI Web Portal -->
-- ["RCI Web Portal"](https://rci-web-portal-acd229a7a294.herokuapp.com/#/home) 
- Client Group Project - Full Stack React/Node.js Web Application. ["Repo"](https://github.com/NateNotermann/RCI-Client-Project) 
+- [**RCI Web Portal**](https://rci-web-portal-acd229a7a294.herokuapp.com/#/home), 
+ **Client Group Project** - Full Stack React/Node.js Web Application. ["Repo"](https://github.com/NateNotermann/RCI-Client-Project) 
   - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS.**
 
 <!-- Video Game Resume -->
- - [Video Game Resume](https://video-game-resume.netlify.app/)  - Front-End Javascript 2D Video Game. [Repo](https://github.com/NateNotermann/Video-Game-Resume)
+ - [**Video Game Resume**](https://video-game-resume.netlify.app/),  - Front-End Javascript 2D platformer video game. [Repo](https://github.com/NateNotermann/Video-Game-Resume)
    - **Tech: Vanilla JavaScript, HTML, CSS, Lottie.**
 
 <!-- Drumkit -->
- - [Drumkit](https://natenotermann.github.io)
+ - [**Drumkit**](https://natenotermann.github.io)
    - **Tech: JavaScript, HTML, CSS.**
 
 
@@ -99,11 +109,15 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
 **Databases:** 
 <!-- T-SQL -->
-<a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"> <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_448,h_250/f_auto,q_auto/v1686060391/hevo-learn-1/tsql_logo.png?_i=AA" align="left" alt="T-SQL" height='42px'/> </a> 
+<a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"> <img src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_448,h_250/f_auto,q_auto/v1686060391/hevo-learn-1/tsql_logo.png?_i=AA" align="left" alt="T-SQL" height='42px' style="margin-right: 10px; margin-left: 10px;"/> </a> 
 
 <!-- PostreSQL -->
 <a href="https://www.postgresql.org/" target="_blank"> <img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800" align="left" alt="postreSQL" height='42px'/> </a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png?20080116191800" align="left" alt="postreSQL" height='42px' style="margin-right: 10px; margin-left: 10px;"/> </a>
+
+<!-- PostreSQL -->
+<a href="https://aws.amazon.com/rds/" target="_blank"> <img 
+src="https://www.logicata.com/wp-content/uploads/2020/08/Amazon-RDS@4x.png" align="left" alt="AWS RDS" margin='10px' height='42px' style="margin-right: 10px; margin-left: 10px;"/> </a>
 
 <br><br> 
 
