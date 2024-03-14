@@ -19,7 +19,7 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
   </tr>
   <tr>
     <td>Fair Share - Tip Distributor React Web App. <a href="https://github.com/NateNotermann/FairShare/tree/main">Repo</a></td>
-    <td>I turned my resume into a playable Javascript video game!  <a href="https://video-game-resume.netlify.app/">Demo</a>, <a href="https://github.com/NateNotermann/Video-Game-Resume'">Repo</a></a></td>
+    <td>I turned my resume into a playable Javascript video game!  <a href="https://video-game-resume.netlify.app/">Demo</a>, <a href="https://github.com/NateNotermann/Video-Game-Resume">Repo</a></a></td>
   </tr>
   <tr>
 
@@ -70,16 +70,16 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 
 ## Skills:
 **Certifications**    
-<a href="https://www.primeacademy.io/" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="margin-right: 10px; margin-left: 10px;"></a> **AWS Certified Cloud Practitioner Certification.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)     
+<a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="margin-right: 10px; margin-left: 10px;"></a> **AWS Certified Cloud Practitioner Certification.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)     
 <br>  
 
-<a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/157/original/prime-20logo-20color.png" style="margin-right: 10px; margin-left: 10px;"></a>   
-**Prime Digital Academy** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)   
+<a href="https://www.primeacademy.io/" target="_blank"> <img align="left" alt="AWSLink" height ="42px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/157/original/prime-20logo-20color.png" style="margin-right: 10px; margin-left: 10px;"></a>   
+**Prime Digital Academy** [Link](https://www.primeacademy.io/)   
 
  
 **Languages:** 
 <!-- javascript -->
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="margin-right: 10px; margin-left: 10px;"> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="margin-right: 10px; margin-left: 10px;"></a>
 
 <!-- Visual Basic -->
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img align="left" alt="VB" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/120px-VB.NET_Logo.svg.png" style="margin-right: 10px; margin-left: 10px;"></a>
