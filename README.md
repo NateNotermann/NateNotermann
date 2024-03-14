@@ -6,20 +6,26 @@ Hello! I'm **Nate Notermann**. I am a **Full-Stack Software Engineer**. I've wor
 The languages I am most fluent in are: **Javascript**, **REACT**, **Visual Basic(VB.NET)**, **ASP.NET**, **HTML**, **CSS**, **T-SQL** & **PostgreSQL**.   
 Feel free to take a look around the rest of my [GitHub repositories](https://github.com/NateNotermann?tab=repositories) or visit some of my other sites and examples of work below.
 <br>
+<!-- Linktree Link -->
+<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
+<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
+<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
+<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
+<br><br>
 
 
 ## What I'm working on
 - **Fair Share**, Tip Distributor App - Full-Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/FairShare/tree/main)
-  - It's a Full-stack React web app that allows service industry employees to calculate tip allocations. 
-<img src="public/images/screenshots/screenshot1.webp" style="width: 100%;">  
-
+  - Full-stack React web app that allows service industry employees to calculate tip allocations. 
+<img src="https://raw.githubusercontent.com/NateNotermann/FairShare/main/public/images/screenshots/screenshot1.webp" style="width: 50%;">  
+<br><br>
 
 ## Recently Completed: 
  - [**Video Game Resume**](https://video-game-resume.netlify.app/)  - Front-End Javascript 2D Video Game. [Repo](https://github.com/NateNotermann/Video-Game-Resume)
 
  - <a href="https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile" target="_blank"> <img align="left" alt="AWSLink" height ="42px"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>   
 **AWS Certified Cloud Practitioner Certification.** [Link](https://www.credly.com/badges/9848e3dc-982e-4f7e-a8d8-6f08b42e0f48/linked_in_profile)
-
+<br><br>
 
 <!-- Shield.io badges: -->
 <!-- https://shields.io/badges -->
@@ -30,14 +36,6 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 <img src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 <img src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red"> --> 
 
-
-
- ### Links 
-<!-- Linktree Link -->
-<a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
-<a href='https://www.linkedin.com/in/nate-notermann/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
-<a href='https://www.dropbox.com/scl/fi/du9m9bdpvip02d3bob8rm/Nate-Notermann-Resume.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
-<a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
 
 
 
@@ -64,7 +62,7 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 
 
 
-<br>
+<br><br>
 
 ## Skills:
 
