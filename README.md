@@ -11,7 +11,7 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 <br><br>
 
 
-<table>
+<table style="width: 100%;">
   <tr>
     <th style="width: 50%;">What I'm working on</th>
     <th style="width: 50%;">Recently Completed</th>
