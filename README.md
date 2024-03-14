@@ -58,8 +58,8 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
    - **Tech: Vanilla JavaScript, HTML, CSS, Lottie.**
 
 <!-- Drumkit -->
- - [**Drumkit**](https://natenotermann.github.io)
-   - **Tech: JavaScript, HTML, CSS.**
+ <!-- - [**Drumkit**](https://natenotermann.github.io)
+   - **Tech: JavaScript, HTML, CSS.** -->
 
 
 
