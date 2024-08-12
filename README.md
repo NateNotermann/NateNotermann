@@ -2,7 +2,7 @@
 <a href='https://linktr.ee/natenotermann'><img alt="Linktree" src="https://img.shields.io/badge/linktree-%2350B812 .svg?style=for-the-badge&logo=linktree&logoColor=white" height='30px'/></a> <!-- LinkedTree --> 
 <a href='https://www.linkedin.com/in/nate-notermann/'><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height='30px'/></a> <!-- LinkedIn --> 
 <a href = "https://github.com/NateNotermann?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repositories-%23FC0145 .svg?style=for-the-badge&&labelColor=white&logo=github&logoColor=FC0145" height='30px' style="color='blue'" /></a><!-- Email -->
-<a href='https://nate-notermann-static-resume-hosting.netlify.app/NateNotermannSE.pdf?rlkey=rye5t32ltk76v6h2jcspusxwj&dl=0'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
+<a href='https://nate-notermann-static-resume-hosting.netlify.app/NateNotermannSE.pdf'><img alt="PDF Resume" src="https://img.shields.io/badge/Resume-%23B81212 .svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height='30px' /></a> <!-- Resume --> 
 <a href = "mailto: nate.notermann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23ffffff .svg?style=for-the-badge&color=lightblue&labelColor=white&logo=gmail&logoColor=red" height='30px' style="color='blue'" /></a><!-- Email -->
 <br>
 
