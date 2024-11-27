@@ -45,12 +45,11 @@ Feel free to take a look around the rest of my [GitHub repositories](https://git
 
 ## Examples of work
 <!-- wiki-hehe-pedia2 -->
-- [**"Wiki-HeHe-pedia"**](https://wik-hehe-pedia2-f6a9fa6792b7.herokuapp.com/#/home), **Comedian Index** - Full Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
+- **"Wiki-HeHe-pedia"**, **Comedian Index** - Full Stack React/Node.js Web Application. [Repo](https://github.com/NateNotermann/wik-hehe-pedia-2.0)
   - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS, Lottie.**
 
 <!-- RCI Web Portal -->
-- [**RCI Web Portal**](https://rci-web-portal-acd229a7a294.herokuapp.com/#/home), 
- **Client Group Project** - Full Stack React/Node.js Web Application. ["Repo"](https://github.com/NateNotermann/RCI-Client-Project) 
+- **RCI Web Portal**, **Client Group Project** - Full Stack React/Node.js Web Application. ["Repo"](https://github.com/NateNotermann/RCI-Client-Project) 
   - **Tech: React.js, JavaScript, Node.js, Amazon RDS, Redux, Saga, Express.js, Postgres, Material UI, HTML, CSS.**
 
 <!-- Video Game Resume -->
